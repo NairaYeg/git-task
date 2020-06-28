@@ -1,11 +1,12 @@
-
-  function getRandomLetter() {
-    let char = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-    // console.log(char.length)
-    return char[Math.floor(Math.random() * 51)];
+function getRandomNumber() {
+    return Math.random();
   }
   
-  getRandomLetter();
-  getRandomLetter();
-  getRandomLetter();
+  console.log(getRandomNumber());
+  
+
+  getRandomNumber();
+  getRandomNumber();
+  getRandomNumber();
+  getRandomNumber();
   
