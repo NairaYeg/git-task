@@ -5,3 +5,7 @@
     return char[Math.floor(Math.random() * 51)];
   }
   
+  getRandomLetter();
+  getRandomLetter();
+  getRandomLetter();
+  

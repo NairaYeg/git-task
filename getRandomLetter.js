@@ -4,3 +4,9 @@ function getRandomNumber() {
   
   console.log(getRandomNumber());
   
+
+  getRandomNumber();
+  getRandomNumber();
+  getRandomNumber();
+  getRandomNumber();
+    
